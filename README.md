@@ -1,4 +1,5 @@
-<img width="1366" height="768" alt="14  Dashboard" src="https://github.com/user-attachments/assets/922ec95b-4bd6-4671-88b1-645ede437c31" />
+<img width="968" height="500" alt="Screenshot 2026-07-07 170952" src="https://github.com/user-attachments/assets/487656a0-899a-412d-9e18-7cffbc5a25f2" />
+
 
 
 # 📊 Retail Sales Analysis Dashboard using Power BI
